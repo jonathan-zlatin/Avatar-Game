@@ -1,4 +1,3 @@
-
 # Pepse Game
 
 ![Pepse Game Screenshot](project/src/assets/gameImg.png)
@@ -9,11 +8,11 @@ Pepse Game is a 2D side-scrolling adventure game built in Java. Players control 
 
 ## Features
 
-- **Dynamic Environment**: The game environment changes dynamically with a day-night cycle and a procedurally generated terrain.
-- **Avatar Control**: Players control an avatar, navigating through the terrain using user input.
-- **Flora Interaction**: Interact with various flora, including trees with leaves, fruits, and more.
-- **Energy System**: The avatar's energy is tracked and displayed in real-time, affecting gameplay.
-- **Randomized Elements**: Elements such as terrain generation and avatar starting position are randomized for unique gameplay experiences.
+- **Dynamic Environment**: 🌄 The game environment changes dynamically with a day-night cycle and a procedurally generated terrain.
+- **Avatar Control**: 👾 Players control an avatar, navigating through the terrain using user input.
+- **Flora Interaction**: 🌳 Interact with various flora, including trees with leaves, fruits, and more.
+- **Energy System**: ⚡ The avatar's energy is tracked and displayed in real-time, affecting gameplay.
+- **Randomized Elements**: 🎲 Elements such as terrain generation and avatar starting position are randomized for unique gameplay experiences.
 
 ## Getting Started
 
@@ -36,20 +35,11 @@ To add `DanoGameLab.jar` as a dependency to this project:
    - If using an IDE, add the JAR to the project's build path or libraries.
    - If compiling from the command line, use the `-cp` flag to include the JAR in the classpath.
 
-Example (command line):
-
-
-
-Replace `lib/DanoGameLab.jar` with the actual path to your JAR file.
-
 ## Usage
 
 - Use the arrow keys to move the avatar left and right.
 - Interact with flora by colliding with them using the avatar.
 - Observe the day-night cycle and dynamic environment changes.
-
-
-
 
 ---
 
